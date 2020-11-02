@@ -1,0 +1,220 @@
+.clear{clear: both;}
+
+
+
+
+.headerimg{
+	position: relative;
+height: 324px;
+width: 100%;
+max-width: 1366px;
+background-repeat: no-repeat;
+margin: 0 auto;
+}
+.header{position: absolute;
+top: 30px;
+left: 139px;
+color: white;
+width: 1089px;
+font-size: 14px;
+font-weight: bold;
+text-transform: uppercase;
+}
+.nav_ul{
+	height: 20px;
+display: flex;
+justify-content: flex-end;
+	align-content: : space-between;}
+.nav_p{margin-right: 439px;}
+.nav_li{display: flex;
+	margin-right: 49px;
+}
+.about{position: absolute;
+	top: 145px;
+	left: 139px;
+	width: 195px;
+height: 59px;
+font-size: 42px;
+color: white;
+font-weight: bold;}
+.about_us{position: absolute;
+	height: 20px;
+	font-size: 14px;
+top: 219px;
+left:139px;
+color: #fff;
+display: flex;
+align-items: center;}
+.after_xazi::after{content: "";
+	display: block;
+	display: inline-block;
+	width: 2px;
+	height: 20px;
+	background-color: #fff;
+	margin: 0 20px}
+
+/*section1*/
+.wraper1{margin: 129px 108px 125px 139px;}
+.h4{color: blue;
+font-weight: bold;
+text-transform: uppercase;
+font-size:14px; }
+.h1{font-size: 42px;
+color: black;
+font-weight: bolder;
+width: 374px;
+height: 115px;}
+.p1{width: 444px;
+font-size: 16px;
+font-weight: 600;}
+.p2{width: 444px;
+font-size: 14px;
+margin-top: 10px;
+margin-bottom: 20px;}
+.read_more{width: 184px;
+height: 50px;
+background-color: #5863F8;
+color: white;
+font-size: 14px;
+border: none;
+}
+.wraper2{width: 536px;
+height: 461px;
+margin-top: 90px;
+margin-bottom: 90px;
+}
+.sec_2{display: flex;}
+.kibe{margin-right:10px;}
+.white{color: #fff;}
+.backgroundimg{position: relative;}
+.position{position: absolute;
+top: 92px;
+left: 139px;} 
+.box{margin-right: 15px;
+height: 260px;
+width: 260px;
+background-color: #fff;
+padding-top: 27px;}
+.ball{position: relative;
+	width: 59px;
+	height: 58px;
+	background-color: #5863F8;
+border-radius:50%;
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.ball img{position: absolute;
+	top: 20%;
+	left: 22%;
+}
+.box h5{height: 52px;
+font-size: 18px;
+font-weight: 550;
+width: 166px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 15px;
+text-align: center;}
+.box p {width: 221px;
+height: 62px;
+color: #B1B1B1;
+font-size: 14px;
+margin-left: auto;
+margin-right: auto;
+overflow: hidden;} 
+.flexi{display: flex;}
+.box3 h1{font-size: 42px;
+color: black;
+font-weight: 700;
+width: 512px;
+height: 115px;
+margin-right: 132px;}
+.box3 img{margin-top: 30px;
+display: inline-block;
+}
+.box3 h3{display: inline-block;
+margin-left: 19px;
+font-size: 18px;
+font-weight: bold;
+vertical-align: middle;
+}
+.box3 p {margin-top: 20px;
+width: 352px;
+height: 62px;
+font-size: 14px;}
+.box2{display: flex;}
+.box3 h4{margin-top: 76px;}
+.box3{padding-left: 139px;
+}
+.img2{margin-right: 152px;
+margin-left: 152px;}
+.box4 h1{
+font-size: 42px;
+color: black;
+font-weight: 700;
+width: 565px;
+height: 115px;
+margin-left: 139px;}
+.box4 h4{margin-left: 139px;
+color: blue;
+font-weight: bold;
+text-transform: uppercase;
+font-size:14px;}
+
+/*footer*/
+.footer{height: 395px;
+width: 100%;
+max-width: 1367px;
+background-color: black;
+display: inline-flex;}
+.footerbox1{/*display: inline-block;*/
+color: white;
+height: 191px;
+width: 260px;
+margin-top: 90px;
+margin-left: 139px;}
+.pfooter{margin: 20px 0;}
+.footerbox2{padding-top: 90px;
+	color: white;
+width: 103px;
+height: 155px;
+margin-left: 200px;
+/*display: inline-block;*/}
+.footermenu{color:blue;
+margin-top: 20px;}
+.blue{margin-bottom: 20px;
+	}
+.footerbox3{
+	color: white;
+display: flex;
+flex-direction: column;
+margin-left: 105px;
+margin-top: 90px;}
+.footer h2{font-weight: bold;
+font-size: 18px;
+margin-bottom: 20px;}
+.footer a{color: white;}
+/*.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  height:30px;
+  text-align: center;
+  vertical-align: middle;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius:50%;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;}
+.fa:hover {
+    opacity: 0.7;}
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}*/
